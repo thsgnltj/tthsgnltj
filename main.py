@@ -605,8 +605,12 @@ import turtle
 #     # 27 is the ASCII for the esc key on your keyboard.
 #     if keyboard_input == 27:
 #         break
+
+
+qweqweqweqwe
+
 #
 # camera.release()
 # cv2.destroyAllWindows()
 # import sys
-# print(sys.version)
+# print(sys.version)qweqweqweqqweqweqweqweqweqwqweeqw
