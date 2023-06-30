@@ -607,7 +607,7 @@ import turtle
 #         break
 
 
-#dsiuddddddd
+#Tlqkf wha
 # camera.release()
 # cv2.destroyAllWindows()
 # import sys
