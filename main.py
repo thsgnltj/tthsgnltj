@@ -608,7 +608,18 @@ import turtle
 
 
 qweqweqweqwe
-
+ㅁㄴㅇㄴㅁㅇㄴㅁㅇㅁㅇㄴㄴㅁㅇ
+ㄴㅁㅇ
+ㅁㄴㅇ
+ㄴㅁ
+ㅇㄴㅁ
+ㅇㄴㅁ
+ㅇㄴㅁ
+ㅇㄴㅁ
+ㅇㄴㅁ
+ㅇㄴㅁ
+ㅇㄴㅁ
+ㅇㅁㄴㅇ
 #
 # camera.release()
 # cv2.destroyAllWindows()
