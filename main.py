@@ -607,7 +607,7 @@ import turtle
 #         break
 
 
-#Tlqkf ehfdkrkdigksek roTlqkfd RHr ehfdkrksek
+#안녕
 # camera.release()
 # cv2.destroyAllWindows()
 # import sys
