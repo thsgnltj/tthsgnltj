@@ -607,21 +607,8 @@ import turtle
 #         break
 
 
-qweqweqweqwe
-ㅁㄴㅇㄴㅁㅇㄴㅁㅇㅁㅇㄴㄴㅁㅇ
-ㄴㅁㅇ
-ㅁㄴㅇ
-ㄴㅁ
-ㅇㄴㅁ
-ㅇㄴㅁ
-ㅇㄴㅁ
-ㅇㄴㅁ
-ㅇㄴㅁ
-ㅇㄴㅁ
-ㅇㄴㅁ
-ㅇㅁㄴㅇ
-#
+#dsiuddddddd
 # camera.release()
 # cv2.destroyAllWindows()
 # import sys
-# print(sys.version)qweqweqweqqweqweqweqweqweqwqweeqw
+# print(sys.version)
